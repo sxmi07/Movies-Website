@@ -34,12 +34,5 @@ It focuses on layout design, responsiveness, and basic JavaScript functionality 
 
 ---
 
-## 📁 Project Structure
-├── index.html
-├── css/
-│ └── style.css
-├── js/
-│ └── script.js
-└── assets/
-└── images/
+![image alt](https://github.com/sxmi07/Movies-Website/blob/742db0b3e86a27e3e29012674bf455849ad8e964/sample.jpg.jpeg)
 
